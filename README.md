@@ -1,5 +1,7 @@
 # Rapyd MNEE Frontend Dashboard
 
+A dashboard is hosted on [http://rapydmnee.duckdns.org/](http://rapydmnee.duckdns.org/) for trying it out.
+
 **Rapyd MNEE Frontend** is a Vue.js-based dashboard that allows you to manage all your merchant activities in one place. With this dashboard, you can:
 
 - View and update merchant details

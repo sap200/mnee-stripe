@@ -129,18 +129,20 @@
 <section class="doc-section">
   <h2>4. PrestaShop Integration</h2>
   <p> An example of Rapyd MNEE module in prestashop can be found here: 
-    <a href="http://rapydmnee.duckdns.org:9005/prestashop/index.php" target="_blank">
+    <a href="http://rapydmnee.duckdns.org:9005/prestashop/index.php" target="_blank"> Rapyd MNEE prestashop payment module demo</a>
   </p>
   <p>
     To integrate MNEE payments in your PrestaShop store, follow these steps:
   </p>
   <ol>
     <li>
+      <p>
       <b>Download the PrestaShop Extension:</b>
       <a href="https://github.com/rapyd-mnee-payment-gateway/rapydmnee/releases/download/alpha/rapydmnee.zip" target="_blank"> Rapyd MNEE prestashop module link</a>
         GitHub Repository
-      </a>
+      </p>
     </li>
+
     <li>
       <b>Upload to PrestaShop Back Office:</b>
       <ul>

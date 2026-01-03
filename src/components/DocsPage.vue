@@ -114,13 +114,13 @@
         <li>
           <b>GitHub: </b>
           <a :href="exampleGitHub" target="_blank">
-            {{ exampleGitHub }}
+            Example of Rapyd MNEE integration in custom website
           </a>
         </li>
         <li>
           <b>Live Demo: </b>
           <a :href="exampleProject" target="_blank">
-            {{ exampleProject }}
+            Demo Merchant Website
           </a>
         </li>
       </ul>
@@ -128,13 +128,16 @@
 
 <section class="doc-section">
   <h2>4. PrestaShop Integration</h2>
+  <p> An example of Rapyd MNEE module in prestashop can be found here: 
+    <a href="http://rapydmnee.duckdns.org:9005/prestashop/index.php" target="_blank">
+  </p>
   <p>
     To integrate MNEE payments in your PrestaShop store, follow these steps:
   </p>
   <ol>
     <li>
       <b>Download the PrestaShop Extension:</b>
-      <a href="https://github.com/example/mnee-prestashop-extension" target="_blank">
+      <a href="https://github.com/rapyd-mnee-payment-gateway/rapydmnee/releases/download/alpha/rapydmnee.zip" target="_blank">
         GitHub Repository
       </a>
     </li>
@@ -143,7 +146,7 @@
       <ul>
         <li>Log in to your PrestaShop admin panel.</li>
         <li>Go to <b>Modules & Services → Upload a module</b>.</li>
-        <li>Choose the ZIP file you downloaded from GitHub and upload it.</li>
+        <li>Choose the ZIP file you downloaded from the link above and upload it.</li>
       </ul>
     </li>
     <li>
@@ -179,8 +182,8 @@ export default {
       HOST_URL,
       merchantApiKey: "your_merchant_api_key_here",
       source: "web_demo",
-      exampleGitHub: "https://github.com/example/mnee-demo",
-      exampleProject: "https://example.com/mnee-demo"
+      exampleGitHub: "https://github.com/rapyd-mnee-payment-gateway/custom-merchant-store",
+      exampleProject: "http://rapydmnee.duckdns.org:9000/"
     }
   },
   methods: {

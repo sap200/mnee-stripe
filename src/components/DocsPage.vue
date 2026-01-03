@@ -137,7 +137,7 @@
   <ol>
     <li>
       <b>Download the PrestaShop Extension:</b>
-      <a href="https://github.com/rapyd-mnee-payment-gateway/rapydmnee/releases/download/alpha/rapydmnee.zip" target="_blank">
+      <a href="https://github.com/rapyd-mnee-payment-gateway/rapydmnee/releases/download/alpha/rapydmnee.zip" target="_blank"> Rapyd MNEE prestashop module link</a>
         GitHub Repository
       </a>
     </li>
